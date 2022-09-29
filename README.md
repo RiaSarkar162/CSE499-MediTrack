@@ -19,12 +19,12 @@ Installing Android software is probably the most challenging part of this projec
 ### Step 0: Pre-Installation Check List
 Before installing Android SDK, you need to install Java Development Kit (JDK). Read "How to install JDK". Ensure that your JDK is at or above 1.8. You can check your JDK version with command "javac -version" (compiler) and "java -version"(runtime).
 Uninstall older version(s) of "Android Studio" and "Android SDK", if any.
-The installation and many operations take a LONG time to complete. Do NOT stare at your screen or at the ceiling. Browse through the "Android for Developers" @ https://developer.android.com.
-We need to install two HUGE packages:
+The installation and many operations take a LONG time to complete. Do NOT stare at your screen or at the ceiling. Browse through the "Android for Developers" @ https://developer.android.com.                                                                     
+We need to install two HUGE packages:                                                                               
 Android Studio (IDE) (about 1.6 GB), which is an Integrated Development Environment (IDE) based on IntelliJ (a popular Java IDE); and
-Android SDK (Software Development Kit) (about 5 GB) for developing and running Android apps.
+Android SDK (Software Development Kit) (about 5 GB) for developing and running Android apps.                                                      
 ### Step 1: Install "Android Studio IDE"
-Reference: "Install Android Studio" @ https://developer.android.com/studio/install.
+Reference: "Install Android Studio" @ https://developer.android.com/studio/install.                                                    
 
 (For Windows)
 Check that environment variable JAVA_HOME is set to the JDK installation directory via command "set JAVA_HOME". Otherwise, Follow the steps HERE.
@@ -35,7 +35,7 @@ In "Choose Components", select "Android Studio" and "Android Virtual Device" (sp
 In "Configuration Settings Install Location", accept the default "C:\Program Files\Android\Android Studio".
 In "Choose Start Menu Folder", accept the default ⇒ Install.
 Launch Android Studio. Continue to Step 2.
-by default, the "Android Studio IDE" will be installed in "C:\Program Files\Android\Android Studio", and the "Android SDK" in "c:\Users\username\AppData\Local\Android\Sdk".
+by default, the "Android Studio IDE" will be installed in "C:\Program Files\Android\Android Studio", and the "Android SDK" in "c:\Users\username\AppData\Local\Android\Sdk".                                                                
 
 Notes (SKIP): You can also use the ZIP version: Download the Windows 64-bit ZIP version (about 1.5GB) ⇒ UNZIP into a folder of your choice ⇒ Run "bin\studio64.exe" to launch the Android Studio ⇒ It will enter the "setup" for the first launch ⇒ "Do not Import Settings" ⇒ In "Welcome", click "Next" ⇒ In "Install Type", choose "Custom" (so that you can see what is going on) ⇒ In "Select Default JDK Location", use default ⇒ In "Select UI Theme", choose one that you like ⇒ In "SDK Components Setup", select "Android Virtual Device (1.05GB) ⇒ Take note of the "Android SDK Location" with default of "C:\Users\username\AppData\Local\Android\Sdk" ⇒ In "Emulator Settings", use default ⇒ In "Verify Settings", check the settings and choose "Finish" ⇒ In "Download Components", click "Details" and check that nothing fails ⇒ Wait ⇒ Wait ⇒ Wait.
  
