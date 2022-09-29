@@ -8,7 +8,7 @@
 
 #### Required Platforms & Programming Language: 
 ->Html                                                    
--> Java
+-> Java                                       
 -> SQL                                 
 ->Xampp                                                           
 ->Android Studio                                                      
