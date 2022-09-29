@@ -9,7 +9,7 @@
 #### Required Platforms & Programming Language: 
 ->Html                                                    
 -> Java                                       
--> SQL                                 
+-> MySQL                                 
 ->Xampp                                                           
 ->Android Studio                                                      
  
